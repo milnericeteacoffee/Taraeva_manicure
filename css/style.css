@@ -164,8 +164,6 @@ a {
 .frame_women {
     display: flex;
     position: relative;
-    border: 1px solid #BE3455;
-    border-radius: 6px 60px;
 }
 
 .frame_women>img {
